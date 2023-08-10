@@ -1,0 +1,52 @@
+body{
+    background-color: #0049b7;
+}
+.front-title{
+    text-align: center;
+    font-size: 70px;
+    color: #00ddff;
+    
+}
+header{
+    display:flex;
+    background-color: #fff685;
+    justify-content: center;
+    border: 10px solid black;
+    border-radius: 100px;
+}
+.description{
+    display:flex;
+    background-color: #00ddff;
+    justify-content: center;
+    border: 10px solid black;
+    border-radius: 100px;
+
+}
+.description-text{
+    text-align: center;
+    font-size: 35px;
+}
+#blogs-container{
+    
+    background-color: #fff685;
+    justify-content: center;
+    border: 10px solid black;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 35px;
+}
+.reveal-btn-container{
+    display: flex;
+    justify-content: center;
+}
+.revealBtn{
+    font-size:30px;
+    
+}
+.v{
+    display:flex;
+    background-color: #fff685;
+    justify-content: center;
+    border: 10px solid black;
+    border-radius: 100px;  
+}
